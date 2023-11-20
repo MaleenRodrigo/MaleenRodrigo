@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">🔥   My States :</h3>
+<h3 align="left">🔥   My Status :</h3>
 
 ###
 
