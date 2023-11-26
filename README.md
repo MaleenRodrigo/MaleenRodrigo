@@ -60,9 +60,12 @@
 
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaleenRodrigo&theme=tokyonight&hide_border=true" height="220" alt="streak graph"  /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaleenRodrigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaleenRodrigo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="220" alt="streak graph"  /><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaleenRodrigo&theme=dark&hide_border=false" height="220" alt="streak graph"  /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaleenRodrigo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
 
 </div>
+
+
 
 ###
