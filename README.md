@@ -24,15 +24,15 @@
 
 ###
 
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="center">Hey there! </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">👤 I’m Maleen Rodrigo, a passionate learner and aspiring developer on a journey to explore the world of coding.<br><br>🚀 Currently diving into the realms of web development projects. I love turning ideas into reality through the power of code.<br><br>💻 Seeking new opportunities to collaborate, contribute, and make a positive impact in the tech community. Let’s build something amazing together!<br><br>📫 Reach out to me for a chat, collaboration, or just to share your favorite coding memes! Excited to connect with like-minded folks and make coding adventures memorable.<br><br>Happy coding! 🚀✨</p>
+<p align="left"> I’m Maleen Rodrigo, a passionate learner and aspiring developer on a journey to explore the world of coding.<br><br> Currently diving into the realms of web development projects. I love turning ideas into reality through the power of code.<br><br> Seeking new opportunities to collaborate, contribute, and make a positive impact in the tech community. Let’s build something amazing together!<br><br> Reach out to me for a chat, collaboration, or just to share your favorite coding memes! Excited to connect with like-minded folks and make coding adventures memorable.<br><br>Happy coding! </p>
 
 ###
 
@@ -60,8 +60,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaleenRodrigo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="220" alt="streak graph"  /><br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaleenRodrigo&theme=dark&hide_border=false" height="220" alt="streak graph"  /><br/><br/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaleenRodrigo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
 
 </div>
