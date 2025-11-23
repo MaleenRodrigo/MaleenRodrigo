@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&color=0D0D0D&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Maleen+Rodrigo;Software+Engineering+Undergraduate;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&color=0D0D0D&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=3000&lines=Maleen+Rodrigo;Software+Engineering+Undergraduate;" />
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@ Constantly learning modern development practices to build reliable, value-driven
 
 <h2 align="center" style="font-weight:600;">Languages & Tools</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/MaleenRodrigo">
     <img src="https://skillicons.dev/icons?i=java,python,php,js,kotlin,html,css,react,express,nodejs,bootstrap,tailwind,mysql" />
     <img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,github,postman,vscode,idea,figma,linux,ubuntu" />
   </a>
