@@ -18,9 +18,7 @@ Constantly learning modern development practices to build reliable, value-driven
 
 <p align="center">
 <a href="https://www.linkedin.com/in/maleen-rodrigo-4b1985220/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="https://medium.com/@maleenrodrigo" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="50"/>
-</a>
+<a href="https://medium.com/@maleenrodrigo" target="_blank"><img src="mediumicon.png" height="50" width="50" style="border-radius:8px;"/></a>
 <a href="https://www.facebook.com/maleenrodrigoo/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50"/></a>
 <a href="https://www.instagram.com/maleenrodrigo/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
 <a href="mailto:maleenrodrigo05@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
