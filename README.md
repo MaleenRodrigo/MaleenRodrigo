@@ -3,9 +3,12 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&color=0D0D0D&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Maleen+Rodrigo;Software+Engineering+Undergraduate;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Maleen+Rodrigo;Software+Engineering+Undergraduate">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&color=0D0D0D&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Maleen+Rodrigo;Software+Engineering+Undergraduate">
+    <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&color=0D0D0D&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Maleen+Rodrigo;Software+Engineering+Undergraduate">
+  </picture>
 </div>
-
 <div align="center">
   
 Software Engineering undergraduate with a strong interest in backend development and scalable system design.  
